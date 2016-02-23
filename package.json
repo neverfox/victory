@@ -32,7 +32,7 @@
     "victory-animation": "0.1.0",
     "victory-axis": "2.0.0",
     "victory-bar": "4.0.0",
-    "victory-chart": "4.0.0",
+    "victory-chart": "neverfox/victory-chart#pull-request/is-equal",
     "victory-label": "1.0.0",
     "victory-line": "1.0.0",
     "victory-pie": "1.0.0",
